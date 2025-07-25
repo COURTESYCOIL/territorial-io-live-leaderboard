@@ -1,0 +1,6 @@
+{
+  "name": "Territorial.io Live Leaderboard",
+  "description": "A dynamic leaderboard that displays real-time clan results from territorial.io, refreshing automatically to provide the latest rankings.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
